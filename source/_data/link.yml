@@ -9,6 +9,10 @@
       link: https://zha0y3n.github.io/
       avatar: https://zha0y3n.github.io/images/avatar.jpg
       descr: 密码大手子
+    - name: int_hello_world
+      link: https://www.cnblogs.com/int-Hello-world
+      avatar: https://cdn.luogu.com.cn/upload/usericon/696967.png
+      descr: 山科的Re大手子, 高中战友
 - class_name: 高中友情链接
   class_desc: 那些已逝的时光
   link_list:
