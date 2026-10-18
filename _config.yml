@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: yifan's blog
+title: clover's blog
 subtitle: '记录学习与生活'
 description: ''
 keywords:
-author: yifan
+author: clover
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yifan0305.github.io/my_blog
+url: https://clover0816.github.io/my_blog
 root: /my_blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -103,7 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:yifan0305/my_blog.git
+  repo: git@github.com:clover0816/my_blog.git
   branch: gh-pages
 
 markdown:

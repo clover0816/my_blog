@@ -54,7 +54,7 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/yifan0305 || Github
+  fab fa-github: https://github.com/clover0816 || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
 # --------------------------------------
@@ -298,7 +298,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/yifan0305
+      link: https://github.com/clover0816
   card_announcement:
     enable: true
     content: 欢迎大佬莅临我的博客!
@@ -638,7 +638,7 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: yifan0305/blog-comments
+  repo: clover0816/blog-comments
   repo_id: 'data-repo-id="R_kgDOUcUqqA"'
   category_id: 'data-category-id="DIC_kwDOUcUqqM4DFrav"'
   light_theme: light
