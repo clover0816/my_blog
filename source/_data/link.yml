@@ -1,3 +1,10 @@
+- class_name: 特别友情链接
+  class_desc: 大神们带带我
+  link_list:
+    - name: 双层鳕鱼堡
+      link: https://ken12376.github.io/
+      avatar: https://ken12376.github.io/assets/burger.jpg
+      descr: 神!AI领域带带!球球了😭
 - class_name: 大学友情链接
   class_desc: 那些强强的大手子
   link_list:
