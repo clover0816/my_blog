@@ -9,7 +9,7 @@ mathjax: true
 
 ## 群、域
 
-这部分在 ECC 那篇也有, 在这里简单叙述一下.
+详细部分可以看 [初探群论 | clover's blog](https://clover0816.github.io/my_blog/2026/10/25/初探群论/). 这里再简单叙述一下.
 一个集合 $G$ 和一个运算 $*$, 如果满足:
 
 1. 封闭性: $a, b \in G$, $a * b \in G$.
