@@ -2,7 +2,7 @@
 title: uov 油醋签名
 date: 2026-09-18 22:17:43
 tags: [crypto, 学习笔记, 后量子密码]
-categories: [学习笔记, 后量子密码]
+categories: [学习笔记]
 description: "uov-油醋签名"
 mathjax: true
 ---

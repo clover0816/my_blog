@@ -2,7 +2,7 @@
 title: Wiener攻击
 date: 2026-10-28 00:5:27
 tags: [crypto, 学习笔记, 非对称加密]
-categories: [学习笔记, 非对称加密]
+categories: [学习笔记]
 description: "Wiener攻击"
 mathjax: true
 ---

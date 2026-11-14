@@ -2,7 +2,7 @@
 title: AMM算法
 date: 2026-09-26 21:42:37
 tags: [crypto, 学习笔记, 非对称加密]
-categories: [学习笔记, 非对称加密]
+categories: [学习笔记]
 description: "AMM算法"
 mathjax: true
 ---

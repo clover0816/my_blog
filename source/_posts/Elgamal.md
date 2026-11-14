@@ -2,7 +2,7 @@
 title: Elgamal
 date: 2026-11-13 00:22:49
 tags: [crypto, 学习笔记, 非对称加密, 离散对数]
-categories: [学习笔记, 非对称加密, 离散对数]
+categories: [学习笔记]
 description: "Elgamal"
 mathjax: true
 ---

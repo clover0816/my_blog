@@ -2,7 +2,7 @@
 title: UUID 相关知识
 date: 2026-09-26 21:40:36
 tags: [crypto, 学习笔记, 其他]
-categories: [学习笔记, 其他]
+categories: [学习笔记]
 description: "UUID 相关知识"
 mathjax: true
 ---

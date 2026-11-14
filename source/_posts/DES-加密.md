@@ -2,7 +2,7 @@
 title: DES 加密
 date: 2026-09-26 21:16:39
 tags: [crypto, 学习笔记, 对称加密]
-categories: [学习笔记, 对称加密]
+categories: [学习笔记]
 description: "DES-加密"
 mathjax: true
 ---
