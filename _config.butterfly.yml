@@ -61,10 +61,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/new-avatar.jpg?v=2
+favicon: /img/new-avatar.jpg
 
 avatar:
-  img: /img/new-avatar.jpg?v=2
+  img: /img/new-avatar.jpg
   effect: false
 
 # Disable all banner images
